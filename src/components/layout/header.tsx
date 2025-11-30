@@ -9,7 +9,7 @@ export default function Header() {
           <div className="flex flex-col leading-tight">
             <div className="relative h-8 w-44">
               <Image
-                src="/img/LogoPraviaT.png"
+                src="public/img/LogoPraviaT.png"
                 alt="Pravia Logo"
                 fill
                 className="object-contain"
